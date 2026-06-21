@@ -216,20 +216,6 @@ Demand-Forecasting/
 ├── README.md
 ```
 
----
-
-## Future Improvements
-
-* XGBoost Implementation
-* LightGBM Implementation
-* Multi-step Forecasting
-* Automated Lag Feature Generation
-* CSV Upload Support
-* Real-Time Forecast Dashboard
-* Advanced Time-Series Forecasting
-
----
-
 ## Conclusion
 
 This project demonstrates how Machine Learning can be used to forecast future demand using historical sales and economic indicators. The model achieved an R² Score of 0.9775, indicating strong predictive performance and practical applicability in real-world business environments.
